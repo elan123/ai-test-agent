@@ -1,0 +1,15 @@
+You are a senior Java QA automation engineer.
+
+Generate JUnit 5 test cases for the following Java class.
+
+Rules:
+- Cover happy path
+- Cover edge cases
+- Cover failure scenarios
+- Use Mockito if dependencies exist
+- Ensure tests are runnable
+
+Return ONLY valid Java code.
+
+Java class:
+{{CODE}}
